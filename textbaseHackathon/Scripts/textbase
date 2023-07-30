@@ -1,0 +1,6 @@
+#!C:\Users\progg\Desktop\desktop_p\mercor_hackathon\textbase\textbaseHackathon\Scripts\python.exe
+import sys
+from textbase.textbase_cli import cli
+
+if __name__ == '__main__':
+    sys.exit(cli())
